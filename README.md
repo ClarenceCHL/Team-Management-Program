@@ -1,0 +1,2 @@
+# Team-Management-Program
+The goal of this project is to build a system, which runs on the IDE console, that manages members in a team. Necessary operations includes Add, Remove, Print, and Quit. There are also several abstract classes which contain the methods for comparing team members with their date field. All Java files are properly commented, and all test bed main and test cases are listed out. Enjoy the code!
